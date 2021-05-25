@@ -27,9 +27,9 @@ input[type="radio"]{
   word-wrap:break-word; // ***********and this
 } */
 
-th, td{
+/*th, td{
   width: 50px !important;
-}
+}*/
 
 .dataTables_wrapper {
     font-size: 14px;
